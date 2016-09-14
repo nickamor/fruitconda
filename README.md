@@ -4,14 +4,14 @@ Inspired by the reptilian video game heroes of the past, Fruitconda has a voraci
 Fruitconda is written in C/C++ and depends on the Allegro multimedia library.
 
 ## Features
--Psychedelic animations
--
+- Psychedelic animations
+- Classic gameplay
 
 ## Planned Features
--Fruits, score, game over state and high score board
--Sounds
--Complete porting to C++ and make use of C++ language features
--Procedural level generation
+- Fruits, score, game over state and high score board
+- Sounds
+- Complete porting to C++ and make use of C++ language features
+- Procedural level generation
 
 ## Building
 First install the Allegro library. See liballeg.org for more details.
